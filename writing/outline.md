@@ -8,9 +8,12 @@ Mishika Kansal
 
 * What is the focus of your research project?
 
-The use of natural language processing( NLP) in cybersecurity is gaining popularity. There is a need for real-world applications for spotting and preventing cyberattacks, even though the majority of current research has concentrated on theoretical aspects of NLP in cybersecurity.
+The use of natural language processing( NLP) in cybersecurity is gaining popularityin the cybersecurity domain.It can used to support risk assessments. It can also help identify threats that can help identify the vulnerabilities in the security infrastructure. There is a need for real-world applications for spotting and preventing cyberattacks, even though the majority of current research has concentrated on theoretical aspects of NLP in cybersecurity.NLP can also provide a leverage to assist in breach protection,identification and scope analysis.
 
 * State at least one research question that your project will answer.
+
+The project will answer the following research questions:
+
 
 * What are the steps you will need to take to complete this project?
 
