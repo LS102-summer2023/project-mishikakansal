@@ -146,7 +146,15 @@ This includes testing the data using evaluation metrics such as accuracy
 
      + Summary of Results
 
+1. The project explored the practical application of NLP techniques in preventing cyber attacks.
+
+2. Comparitive analysing with existing cybersecurity tools can highlight potential advantages.
+
      + Future Work
+
+1. The future work can involve combination of NLP with other AI tools such as machine learning or deep learning.
+
+2. Exploring the use of application of NLP in other specific cybersecurity areas
 
      + Ethical Implications and Recommendations
 
