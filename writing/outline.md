@@ -22,7 +22,6 @@ The project will answer the following research questions:
 The following steps will be taken to complete the project:
 
 Step 1: To determine the state of knowledge regarding NLP's practical applications in cybersecurity, conduct a thorough literature review.
-
 Step 2: Create research questions to address the gaps in the literature by identifying them.
 
 Step 3: Collecting and analysing the data to answer the research question
