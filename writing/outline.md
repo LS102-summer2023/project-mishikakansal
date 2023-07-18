@@ -52,6 +52,8 @@ Here are some examples of recent research and developments:
 
      + Goals of the Project
 
+The project aims to identify the most effective NLP techniques for detecting and preventing cyber attacks and to integrate NLP into existing cyber workflows to help improve breaches and protection.The project is divided into steps which will be considered as goals. By achieveing these goals the project aims to provide valuable insights nd pratical applications of NLP for cybersecurity professionals.
+
 * Related work
 
 * Method
