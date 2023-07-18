@@ -13,7 +13,9 @@ The use of natural language processing( NLP) in cybersecurity is gaining popular
 * State at least one research question that your project will answer.
 
 The project will answer the following research questions:
-
+1) What are the practical applications of NLP in cybersecurity for detecting and preventing cyber attacks?
+2) How can NLP be used to improve the accuracy and efficiency of cybersecurity risk assessments?
+3) How can NLP be used to detect and prevent phishing attacks?
 
 * What are the steps you will need to take to complete this project?
 
