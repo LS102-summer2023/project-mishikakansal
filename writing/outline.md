@@ -2,7 +2,7 @@
 
 ## Name
 
-Add Your Name Here
+Mishika Kansal
 
 ### Research Project Details
 
