@@ -8,7 +8,7 @@ Mishika Kansal
 
 * What is the focus of your research project?
 
-The use of natural language processing( NLP) in cybersecurity is gaining popularityin the cybersecurity domain.It can used to support risk assessments. It can also help identify threats that can help identify the vulnerabilities in the security infrastructure. There is a need for real-world applications for spotting and preventing cyberattacks, even though the majority of current research has concentrated on theoretical aspects of NLP in cybersecurity.NLP can also provide a leverage to assist in breach protection,identification and scope analysis.
+The use of natural language processing( NLP) in cybersecurity is gaining popularity in the cybersecurity domain.It can used to support risk assessments. It can also help identify threats that can help identify the vulnerabilities in the security infrastructure. There is a need for real-world applications for spotting and preventing cyberattacks, even though the majority of current research has concentrated on theoretical aspects of NLP in cybersecurity.NLP can also provide a leverage to assist in breach protection,identification and scope analysis.
 
 * State at least one research question that your project will answer.
 
@@ -40,19 +40,29 @@ Step 6: Identifying the ethical considerations while using the NLP model and ass
 * Introduction
 
      + Motivation
+1.bridge the gap between the theoritical aspects of NLP in cybersecurity
 
-The motivation of the project is to bridge the gap between the theoritical aspects of NLP in cybersecurity and its practical application for preventing cyber attacks.Additionally, the project will develop strategies to address ethical issues when using NLP in cybersecurity.
+2.practical application of NLP for preventing cyber attacks.
+
+3.develop strategies to address ethical issues when using NLP in cybersecurity.
+
 
      + Current State of the Art
 
 The current state of the art in the application of natural language processing (NLP) in cybersecurity is rapidly evolving.
 Here are some examples of recent research and developments:
 1) State of the art research to explain cybersecurity was covered in a survey of current AI applications in cybersecurity.(1)
-2) 
-
+   
      + Goals of the Project
 
-The project aims to identify the most effective NLP techniques for detecting and preventing cyber attacks and to integrate NLP into existing cyber workflows to help improve breaches and protection.The project is divided into steps which will be considered as goals. By achieveing these goals the project aims to provide valuable insights nd pratical applications of NLP for cybersecurity professionals.
+1.to identify the most effective NLP techniques for detecting and preventing cyber attacks
+
+2.to integrate NLP into existing cyber workflows to help improve breaches and protection
+
+3.The project is divided into steps which will be considered as goals
+
+4.provide valuable insights and pratical applications of NLP for cybersecurity professionals
+
 
 * Related work
 
@@ -170,6 +180,16 @@ This includes testing the data using evaluation metrics such as accuracy
 (4) https://ieeexplore.ieee.org/abstract/document/9817336
 
 (5) https://www.proquest.com/openview/92816e13be658ea5a0bf45f398a3c4e5/1?pq-origsite=gscholar&cbl=18750&diss=y
+
+(6) https://library.ucsd.edu/dc/object/bb4103775q
+
+(7)  https://developer.nvidia.com/blog/changing-cybersecurity-with-natural-language-processing/
+
+(8) https://www.masernet.com/project/role-and-applications-of-nlp-in-cybersecurity
+
+(9) https://arxiv.org/pdf/2106.01998.pdf
+
+(10) https://www.sciencedirect.com/science/article/pii/S1877050921014368?via%3Dihub
 
 
 ---
