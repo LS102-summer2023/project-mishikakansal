@@ -14,7 +14,7 @@ The use of natural language processing( NLP) in cybersecurity is gaining popular
 
 The project will answer the following research questions:
 1) What are the practical applications of NLP in cybersecurity for detecting and preventing cyber attacks?
-2) How can NLP be used to improve the accuracy and efficiency of cybersecurity risk assessments?
+2) What are the ethical considerations when using NLP in cybersecurity, and how can they be addressed in practical applications?
 3) How can NLP be used to detect and prevent phishing attacks?
 
 * What are the steps you will need to take to complete this project?
@@ -41,7 +41,11 @@ Step 6: Identifying the ethical considerations while using the NLP model and ass
 
      + Motivation
 
+The motivation of the project is to bridge the gap between the theoritical aspects of NLP in cybersecurity and its practical application for preventing cyber attacks.Additionally, the project will develop strategies to address ethical issues when using NLP in cybersecurity.
+
      + Current State of the Art
+
+The current state of the art in the application of natural language processing (NLP) in cybersecurity is rapidly evolving.
 
      + Goals of the Project
 
