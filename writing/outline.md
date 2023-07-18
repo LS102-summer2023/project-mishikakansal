@@ -7,6 +7,7 @@ Mishika Kansal
 ### Research Project Details
 
 * What is the focus of your research project?
+
 The use of natural language processing( NLP) in cybersecurity is gaining popularity. There is a need for real-world applications for spotting and preventing cyberattacks, even though the majority of current research has concentrated on theoretical aspects of NLP in cybersecurity.
 
 * State at least one research question that your project will answer.
