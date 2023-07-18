@@ -108,7 +108,7 @@ b) Developing strategies to work on the ethical implications
 The experimental design will involve:
 1. The research question
 
-Clearly mentioning the specific research question aimed by the experiment to answer>
+Clearly mentioning the specific research question aimed by the experiment to answer
 
 2. Selecting the required dataset
 
@@ -119,8 +119,28 @@ Referencing the valid articles. Especially those that will used to compare the p
 
      + Evaluation
 The evauluation will involve the following steps:
+1. Implementation 
+
+Developing the NLP model using the slected appropriate dataset
+
+2. Testing
+
+Comparing the developed model with the existing models
+
+3. Performance Analysis 
+
+This includes testing the data using evaluation metrics such as accuracy
 
      + Threats to Validity
+
+1. Testing Effect
+   This particularly refers to being aware of certain datasets that can influence the outcome of the model.
+
+2. Measurement Bias 
+   This occurs when the measurement instrument is not accurate or reliable
+
+3. Time Constraint 
+   Limited time can often lead to incomplete studies which can further lead to biased or incomplete results
 
 * Conclusion
 
