@@ -22,10 +22,15 @@ The project will answer the following research questions:
 The following steps will be taken to complete the project:
 
 Step 1: To determine the state of knowledge regarding NLP's practical applications in cybersecurity, conduct a thorough literature review.
+
 Step 2: Create research questions to address the gaps in the literature by identifying them.
+
 Step 3: Collecting and analysing the data to answer the research question
+
 Step 4: Developing and testing NLP models for preventing phishing attacks 
+
 Step 5: Evaluating the model and its effectiveness and comparing it with the current cybersecurity techniques and tools.
+
 Step 6: Identifying the ethical considerations while using the NLP model and assessing them.
 
 ---
