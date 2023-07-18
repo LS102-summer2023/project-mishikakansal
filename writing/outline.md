@@ -105,7 +105,20 @@ b) Developing strategies to work on the ethical implications
 
      + Experimental Design
 
+The experimental design will involve:
+1. The research question
+
+Clearly mentioning the specific research question aimed by the experiment to answer>
+
+2. Selecting the required dataset
+
+Referencing the valid articles. Especially those that will used to compare the prototype. 
+
+3. Building the prototype
+4. Testing 
+
      + Evaluation
+The evauluation will involve the following steps:
 
      + Threats to Validity
 
