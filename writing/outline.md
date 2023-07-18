@@ -56,7 +56,50 @@ The project aims to identify the most effective NLP techniques for detecting and
 
 * Related work
 
+The field of NLP has gained a significant amount of attention in the domain of cybersecurity. While most of the research related works focus on the theoretical aspect here are some studies that have focused on the practical application:
+1) "Natural Language Processing Model for Automatic Analysis of Cybersecurity-Related Documents"
+   This paper discusses the development and implementation of an NLP model based on machine learning performing analysis for cybersecurity 
+   related document.(2)
+2) "Review of NLP-based Systems in Digital Forensics and Cybersecurity"
+    This paper discussed the use of AI and NLP applications for cybersecurity including data mining,pattern recognitions and expert 
+    systems. (3) 
+3) "Cyber Security Vulnerability Detection Using Natural Language Processing"
+   This paper develops a system targetting software vulnerability detection as a NLP problem. (4)
+4) "Cybersecurity Vulnerability Classification Utilizing Natural Language Processing Methods"
+    This research is utilising NLP and some deep learning models to classify vulnerabilities (5)
+
 * Method
+
+To conduct the project on the practical applications of NLP in cybersecurity for detecting and preventing cyber attacks, the following methods will be followed:
+1. LITERATURE REVIEW
+
+a) conducting a comprehensive literature review to identify existing research on practical applications of NLP in cybersecurity 
+
+b) Analysing the findings to understand the current level of research
+
+2. DATA COLLECTION 
+
+a) Identifying the sutaible data sets.
+
+b) Looking through the practical models of NLP using different evauluation matrix
+
+3. PROTOTYPE
+
+a) Creating an experimental prototype for identifying phishing attacks
+
+b) Comparing the prototype with existing NLP models
+
+4. EVALUATION 
+
+a) Evaluating the developed model using evaluation matrix
+
+b) Analysing the strenghts and limitations
+
+5. ETHICAL CONSIDERATIONS
+
+a) Considering the ethical implications of using NLP in cybersecurity, such as privacy etc. 
+
+b) Developing strategies to work on the ethical implications 
 
 * Experiments
 
@@ -79,7 +122,13 @@ The project aims to identify the most effective NLP techniques for detecting and
      + References
 (1) https://www.sciencedirect.com/science/article/pii/S1566253523001136
 
-(2) 
+(2) https://www.mdpi.com/2073-8994/12/3/354
+
+(3) https://ieeexplore.ieee.org/abstract/document/9486354
+
+(4) https://ieeexplore.ieee.org/abstract/document/9817336
+
+(5) https://www.proquest.com/openview/92816e13be658ea5a0bf45f398a3c4e5/1?pq-origsite=gscholar&cbl=18750&diss=y
 
 
 ---
