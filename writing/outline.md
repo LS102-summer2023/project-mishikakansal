@@ -46,6 +46,9 @@ The motivation of the project is to bridge the gap between the theoritical aspec
      + Current State of the Art
 
 The current state of the art in the application of natural language processing (NLP) in cybersecurity is rapidly evolving.
+Here are some examples of recent research and developments:
+1) State of the art research to explain cybersecurity was covered in a survey of current AI applications in cybersecurity.(1)
+2) 
 
      + Goals of the Project
 
@@ -72,6 +75,10 @@ The current state of the art in the application of natural language processing (
      + Conclusions
 
      + References
+(1) https://www.sciencedirect.com/science/article/pii/S1566253523001136
+
+(2) 
+
 
 ---
 
