@@ -2,7 +2,7 @@
 
 ## Name
 
-Mishika Kansa
+Mishika Kansal
 
 ---
 
