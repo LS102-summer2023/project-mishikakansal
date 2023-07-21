@@ -196,6 +196,7 @@ This includes testing the data using evaluation metrics such as accuracy
 (11) about cybersecurity:
 https://www.mtu.edu/computing/cybersecurity/
 (12) cyberthreat: https://www.techopedia.com/definition/25263/cyberthreat
+(13) ct: https://nordvpn.com/cybersecurity/glossary/cyberthreat/
 ---
 
 (Did you remember to write your name at the top of this document?)
