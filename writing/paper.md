@@ -10,7 +10,7 @@ TODO: Text added to relevant sections below
 
 ### Introduction
 
-NLP is a subfield of AI that analyzes and extracts insights from text data in cybersecurity. It can assist in risk assessments and provide hints.
+The ability of a computer program to understand and interpret human language as they are spoken or written is known as Natural Language Processing(NLP).The main objective of Nlp is to make sense of human language in a valuable manner. Over the last decade significant progress has been made in the field of NLP based on Machine Learning(ML). 
 
 #### Motivation
 
