@@ -10,6 +10,7 @@ TODO: Text added to relevant sections below
 
 ### Introduction
 
+YOU BUY, THEY LIE! 
 The internet's a big place, staying cyber secure shiuld be your top priority.The ability of a computer program to understand and interpret human language as they are spoken or written is known as Natural Language Processing(NLP).The main objective of Nlp is to make sense of human language in a valuable manner. Over the last decade significant progress has been made in the field of NLP based on Machine Learning(ML).Along with the development of NLP, cyber threats have significantly increased. Any activity, person has has the potential to delete, alter, deny data without permission comes under cyber threats. This paper describes an NLP model based on ML model specialized in the cybersecurity field. Threat intelligence solution employs NLP to read through data and find the pattern and trends in them. 
 
 #### Motivation
