@@ -18,6 +18,8 @@ NLP is used in many ways across a variety of fields and industries.Translation, 
 
 Because there are more users, devices, and software in the modern company, along with a flood of private and sensitive data, cybersecurity is becoming more and more crucial. The issue is made worse by the increase in the number, level of skill, and number of cyberattackers. Cybersecurity is essential for defending against a range of online risks, such as cybercrime, cyberattacks, and cyberterrorism. People and businesses use it to prevent illegal access to data centers and other digital systems.
 
+
+The importance of cybersecurity in the online world cannot be overstated. As we rely more and more on online activities like banking, chatting, and shopping, the risk of cybercrime increases. Our systems and data are protected by cybersecurity from unauthorized access, use, disclosure, interception, and data deletion.
 #### Current State of the Art
 
 TODO
