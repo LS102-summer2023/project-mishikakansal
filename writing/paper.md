@@ -14,7 +14,6 @@ The ability of a computer program to understand and interpret human language as 
 
 
 NLP is used in many ways across a variety of fields and industries.Translation, sentiment analysis, and speech recognition are a few examples. NLP techniques are utilized in speech recognition systems to translate spoken language into written text as well as in search engines to extract pertinent information from vast amounts of text.NLP is regarded as a challenging field in computer science since human language is rarely precise or plainly articulated. Knowing human language requires knowing not only the words but also the thoughts and connections that underlie them. In the following years, there could be a lot of advancement, especially in cybersecurity.
-TODO
 
 #### Current State of the Art
 
