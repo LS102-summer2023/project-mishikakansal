@@ -10,11 +10,10 @@ TODO: Text added to relevant sections below
 
 ### Introduction
 
-YOU BUY, THEY LIE! 
-The internet's a big place, staying cyber secure should be your top priority.The ability of a computer program to understand and interpret human language as they are spoken or written is known as Natural Language Processing(NLP).The main objective of NLP is to make sense of human language in a valuable manner. Over the last decade significant progress has been made in the field of NLP based on Machine Learning(ML).Along with the development of NLP, cyber threats have significantly increased. Any activity, person has has the potential to delete, alter, deny data without permission comes under cyber threats. This paper describes an NLP model based on ML model specialized in the cybersecurity field. Threat intelligence solution employs NLP to read through data and find the pattern and trends in them. 
+The ability of a computer program to understand and interpret human language as they are spoken or written is known as Natural Language Processing(NLP).NLP's main objective is to make it possible for computers to comprehend, interpret, and produce natural language in a manner similar to that of humans.NLP entails a number of steps that, when combined, produce the desired result. It is employed for the analysis, comprehension, and production of natural language text and speech.In order to study the rules and structure of language and develop intelligent systems capable of comprehending, analysing, and extracting meaning from text, linguistics and computer science are combined in NLP.
 
-#### Motivation
 
+NLP has many uses in a variety of fields and industries. Examples include speech recognition, sentiment analysis,language translation.NLP methods are applied in speech recognition systems to translate spoken language into written text and in search engines to extract pertinent information from large amounts of text.In computer science, NLP is regarded as a challenging problem because human language is rarely precise or clearly spoken. Understanding human language entails being familiar with not only the words but also the concepts and the relationships between them that give the language its meaning.
 TODO
 
 #### Current State of the Art
