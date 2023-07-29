@@ -20,6 +20,7 @@ Because there are more users, devices, and software in the modern company, along
 
 
 
+The importance of cybersecurity in the online world cannot be overstated. As we rely more and more on online activities like banking, chatting, and shopping, the risk of cybercrime increases. Our systems and data are protected by cybersecurity from unauthorized access, use, disclosure, interception, and data deletion.
 
 
 #### Current State of the Art
