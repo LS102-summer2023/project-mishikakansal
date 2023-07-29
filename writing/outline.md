@@ -135,8 +135,7 @@ Developing the NLP model using the slected appropriate dataset
 
 2. Testing
 
-Comparing the developed model with the existing models
-
+Comparing the developed model with the existing model
 3. Performance Analysis 
 
 This includes testing the data using evaluation metrics such as accuracy
