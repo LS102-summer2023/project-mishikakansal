@@ -60,7 +60,7 @@ Here are some examples of recent research and developments:
 
 3.The project is divided into steps which will be considered as goals
 
-4.provide valuable insights and pratical applications of NLP for cybersecurity professionals
+4.provide valuable insights and pratical applications of NLP for cybersecurity professional
 
 
 * Related work
