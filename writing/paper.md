@@ -35,6 +35,14 @@ TODO
 
 TODO: This section includes a broad and detailed review of relevant existing work. The literature review should provide background and context for the reseach project work. The subsections may be organized in whatever manner seems best suited to the material-- chronological, or by topic, or according to some other criteria (e.g., primary versus secondary resources).
 
+
+The field of NLP has gained a significant amount of attention in the domain of cybersecurity. While most of the research related works focus on the theoretical aspect here are some studies that have focused on the practical application:
+
+"Natural Language Processing Model for Automatic Analysis of Cybersecurity-Related Documents" This paper discusses the development and implementation of an NLP model based on machine learning performing analysis for cybersecurity related document.(2)
+"Review of NLP-based Systems in Digital Forensics and Cybersecurity" This paper discussed the use of AI and NLP applications for cybersecurity including data mining,pattern recognitions and expert systems. (3)
+"Cyber Security Vulnerability Detection Using Natural Language Processing" This paper develops a system targetting software vulnerability detection as a NLP problem. (4)
+"Cybersecurity Vulnerability Classification Utilizing Natural Language Processing Methods" This research is utilising NLP and some deep learning models to classify vulnerabilities (5)
+
 If ethical issues are central to this work, you should also address historical and contemporary issues or efforts made to address them.
 
 ### Prototype
