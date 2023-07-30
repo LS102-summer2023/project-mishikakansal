@@ -31,6 +31,14 @@ TODO
 
 TODO
 
+1.to identify the most effective NLP techniques for detecting and preventing cyber attacks
+
+2.to integrate NLP into existing cyber workflows to help improve breaches and protection
+
+3.The project is divided into steps which will be considered as goals
+
+4.provide valuable insights and pratical applications of NLP for cybersecurity professionals
+
 ### Related work
 
 TODO: This section includes a broad and detailed review of relevant existing work. The literature review should provide background and context for the reseach project work. The subsections may be organized in whatever manner seems best suited to the material-- chronological, or by topic, or according to some other criteria (e.g., primary versus secondary resources).
