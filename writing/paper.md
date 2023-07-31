@@ -6,7 +6,6 @@ Mishika Kansal
 
 ---
 ### Introduction
-Spam-detection-block-diagram.png
 The ability of a computer program to understand and interpret human language as they are spoken or written is known as Natural Language Processing(NLP).NLP's main objective is to make it possible for computers to comprehend, interpret, and produce natural language in a manner similar to that of humans.NLP entails a number of steps that, when combined, produce the desired result. It is employed for the analysis, comprehension, and production of natural language text and speech.In order to study the rules and structure of language and develop intelligent systems capable of comprehending, analysing, and extracting meaning from text, linguistics and computer science are combined in NLP.
 
 
