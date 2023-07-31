@@ -87,8 +87,24 @@ Printing Evaluation Metrics: To evaluate the spam classifier's effectiveness, th
 Data loading, preprocessing, feature extraction, model training, prediction, and evaluation are all part of the prototype's standard machine learning pipeline. The CountVectorizer is used to transform text data into numerical features, and the classification algorithm is the Naive Bayes algorithm. Various metrics are used to assess the classifier's performance.
 
 ### Experiments
+The spam message classifier's experimental design is as follows:
+Dataset: From the provided URL, a dataset is obtained that will be used to train and test the spam message classifier. The labeled messages in the dataset are represented by the "v1" column, which stands in for labels( spam or non-spamm), and the'v2 'column for text messages.
+Data loading and processing: The requests library is used to load the dataset into a pandas DataFrame. To make sure the dataset is loaded correctly, the column names are checked.
 
-#### Experimental Design
+Data splitting: Using the sklearn's train _ test _ split function, the dataset is divided into training and testing sets. module for model selection. A random state of 42 is used for reproducibility, and the testing set size is set at 20% of the total data.
+The CountVectorizer from the sklearn is a feature extraction. extraction of features. The text data is transformed into numerical features using the text module. The training and testing data are both transformed using the vectorizer, which is compatible with the training data.
+Model training: The sklearn's MultinomialNB classifier. The transformed training data is used to train the naive _ bayes module. Due to its efficiency in text classification tasks, this classifier was chosen.
+
+Performance evaluation: Using the trained classifier, the testing data are predicted. The sklearn's corresponding functions are used to calculate the accuracy, precision, recall, and F1 score. module for metrics. These metrics give the classifier's ability to accurately classify spam and non-spam messages as well as its overall performance.
+
+The evaluation of the spam message classifier using the provided code yielded the following results:
+Accuracy: 0.9838565022421525
+Precision: 0.9852941176470589
+Recall: 0.8933333333333333
+F1 score: 0.9370629370629371
+
+These metrics show that the classifier effectively categorizes both spam and non-spam messages. The classifier's high accuracy, precision, recall, and F1 score values imply that it can tell spam messages apart from non-spam messages.
+It's crucial to remember that the type of dataset used and the characteristics of the messages can have an impact on how well the classifier performs. To evaluate the classifier's effectiveness on various datasets and look into potential enhancements or optimizations, additional experimentation and evaluation are possible.
 
 #### Evaluation
 
