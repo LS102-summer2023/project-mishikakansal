@@ -23,28 +23,27 @@ The importance of cybersecurity in the online world cannot be overstated. As we 
 
 With numerous recent developments and ongoing research in the area, the state of the art in cybersecurity for natural language processing( NLP) is rapidly changing. The provided search results highlight a few important points.:
 
-1.Machine learning (ML):Many fields already make use of machine learning( ML) capabilities, which is a crucial technology for both current and future information systems. However, ML deployment in cybersecurity is still in its infancy, showing that practice and research are very different from one another. As it can help with breach protection, identification, and scale and scope analysis, machine learning( ML) is becoming more and more a part of cybersecurity workflows
+1.Machine learning (ML): Many fields already make use of machine learning( ML) capabilities, which is a crucial technology for both current and future information systems. However, ML deployment in cybersecurity is still in its infancy, showing that practice and research are very different from one another. As it can help with breach protection, identification, and scale and scope analysis, machine learning( ML) is becoming more and more a part of cybersecurity workflows.
 
 
-2.Natural Language Processing(NLP):NLP offers a wealth of capabilities to improve human ability because it is an AI-based deep learning branch that deals with how people and computers interact using common language. Threat feeds and overlaps in standards, frameworks, and data from an organization's tech stack can be found using NLP for risk and compliance
+2.Natural Language Processing(NLP): It is an AI-based deep learning branch that deals with how people and computers interact using common language. Threat feeds and overlaps in standards, frameworks, and data from an organization's tech stack can be found using NLP for risk and compliance.
 
 3.Framework crosswalking and making security telemetry actionable from a risk and compliance perspective are two examples of processes that NLP is being used to automate.
 
-4.A machine posing as a human can use NLP to analyze bot or spam behavior in email text. In order to identify spammer patterns and the kinds of messages they send, it can also be used to comprehend the email's internal structure.
-This illustration represents the first extension of NLP, which was initially intended to only understand human language and is now being used to comprehend machine-level headers and human languages.
+4. A machine posing as a human can use NLP to analyze bot or spam behavior in email text. In order to identify spammer patterns and the kinds of messages they send, it can also be used to comprehend the email's internal structure.
 
 5.The development of new NLP-based systems for digital forensics and cybersecurity is one of the ongoing research projects in the field.
 
 #### Goals of the Project
 
 
-1.to identify the most effective NLP techniques for detecting and preventing cyber attacks
+1.To identify the most effective NLP techniques for detecting and preventing cyber attacks.
 
-2.to integrate NLP into existing cyber workflows to help improve breaches and protection
+2.To integrate NLP into existing cyber workflows to help improve breaches and protection.
 
-3.The project is divided into steps which will be considered as goals
+3.Provide valuable insights and pratical applications of NLP for cybersecurity professionals.
 
-4.provide valuable insights and pratical applications of NLP for cybersecurity professionals
+4. Discuss ethical onsiderations.
 
 ### Related work
 The field of NLP has acquire a meaningful amount of consideration in the rule of cybersecurity. While most of the research accompanying everything devote effort to something the hypothetical facet present are few studies that have fixated on the experienced use:
@@ -54,7 +53,7 @@ Primary Resources:
 
 2."Cyber Security Vulnerability Detection Using Natural Language Processing" This paper expands a scheme targetting spreadsheet exposure discovery as a NLP question. (2)
 
-4.The SAMHSA Publications and Digital Products primer, "Communicating in a Crisis," offers advice on how to communicate effectively and make decisions. The primer emphasizes the value of concise, accurate, and clear communication during a crisis and offers advice on how to communicate effectively, such as by sending out regular updates and using simple messages. The primer offers insights into the significance of effective communication during a crisis, which may be pertinent to the development of NLP models for detecting and responding to cybersecurity threats.(3)
+3.The SAMHSA Publications and Digital Products primer, "Communicating in a Crisis," offers advice on how to communicate effectively and make decisions. The primer emphasizes the value of concise, accurate, and clear communication during a crisis and offers advice on how to communicate effectively, such as by sending out regular updates and using simple messages. The primer offers insights into the significance of effective communication during a crisis, which may be pertinent to the development of NLP models for detecting and responding to cybersecurity threats.(3)
 
 
 Secondary Resources:
@@ -69,36 +68,46 @@ Secondary Resources:
 
 ### Prototype
 The Naive Bayes algorithm is used in the prototype to implement a spam message classifier. The implementation is described below:
-Importing Libraries: The code starts by importing the required libraries, such as CountVectorizer for text feature extraction, MultinomialNB for the Naive Bayes classifier, and various sklearn metrics. metrics for assessing the effectiveness of the classifier.
-Loading the dataset:Using the requests library, the code loads the dataset from a specified URL. The CSV file is loaded into a pandas DataFrame if the response status code is 200, indicating that the request was successful. Otherwise, a printed error message appears.
-Checking Column Names: To confirm the dataset's structure, the code prints the column names in the DataFrame.
-Data preparation: The text and label columns are divided into X- and Y-variables, respectively.
+
+1.Importing Libraries: The code starts by importing the required libraries, such as CountVectorizer for text feature extraction, MultinomialNB for the Naive Bayes classifier, and various sklearn metrics. metrics for assessing the effectiveness of the classifier.
+
+2.Loading the dataset:Using the requests library, the code loads the dataset from a specified URL. The CSV file is loaded into a pandas DataFrame if the response status code is 200, indicating that the request was successful. Otherwise, a printed error message appears.
+
+3.Checking Column Names: To confirm the dataset's structure, the code prints the column names in the DataFrame.
+
+4.Data preparation: The text and label columns are divided into X- and Y-variables, respectively.
 Using the train _ test _ split function from sklearn, the dataset is divided into training and testing sets. selection of models. A random state of 42 is used for reproducibility, and the testing set size is set at 20% of the total data.
 
-Feature Extraction: To transform text data into numerical features, a CountVectorizer object is created. The training data is fitted to the vectorizer and transformed into a matrix of token counts using the fit _ transform method.
+5.Feature Extraction: To transform text data into numerical features, a CountVectorizer object is created. The training data is fitted to the vectorizer and transformed into a matrix of token counts using the fit _ transform method.
 
-Training the Classifier: A MultinomialNB classifier is instantiated, and the fit method is used to train it using the training data that has been transformed.
+6.Training the Classifier: A MultinomialNB classifier is instantiated, and the fit method is used to train it using the training data that has been transformed.
 
-Transforming the Testing Data:The feature matrix is created by transforming the testing data using the same vectorizer.
+7.Transforming the Testing Data:The feature matrix is created by transforming the testing data using the same vectorizer.
 
-Making Predictions:Using the transformed testing data, predictions are made using the predict method.
+8.Making Predictions:Using the transformed testing data, predictions are made using the predict method.
 
-Performance Evaluation: Using the actual labels( y _ test) and the predicted labels, the metrics for accuracy, precision, recall, and F1 score are calculated.
-Printing Evaluation Metrics: To evaluate the spam classifier's effectiveness, the evaluation metrics( accuracy, precision, recall, and F1 score) are printed.
+9.Performance Evaluation: Using the actual labels( y _ test) and the predicted labels, the metrics for accuracy, precision, recall, and F1 score are calculated.
+
+10.Printing Evaluation Metrics: To evaluate the spam classifier's effectiveness, the evaluation metrics( accuracy, precision, recall, and F1 score) are printed.
+
 Data loading, preprocessing, feature extraction, model training, prediction, and evaluation are all part of the prototype's standard machine learning pipeline. The CountVectorizer is used to transform text data into numerical features, and the classification algorithm is the Naive Bayes algorithm. Various metrics are used to assess the classifier's performance.
 
  <img width="848" alt="Screenshot 2023-08-01 at 2 33 04 AM" src="https://github.com/LS102-summer2023/project-mishikakansal/assets/136472000/1c59b27e-3c4c-4139-be64-dbf60e594f93">   (21)
 
 ### Experiments
 The spam message classifier's experimental design is as follows:
-Dataset: From the provided URL, a dataset is obtained that will be used to train and test the spam message classifier. The labeled messages in the dataset are represented by the "v1" column, which stands in for labels( spam or non-spamm), and the'v2 'column for text messages.
-Data loading and processing: The requests library is used to load the dataset into a pandas DataFrame. To make sure the dataset is loaded correctly, the column names are checked.
 
-Data splitting: Using the sklearn's train _ test _ split function, the dataset is divided into training and testing sets. module for model selection. A random state of 42 is used for reproducibility, and the testing set size is set at 20% of the total data.
-The CountVectorizer from the sklearn is a feature extraction. extraction of features. The text data is transformed into numerical features using the text module. The training and testing data are both transformed using the vectorizer, which is compatible with the training data.
-Model training: The sklearn's MultinomialNB classifier. The transformed training data is used to train the naive _ bayes module. Due to its efficiency in text classification tasks, this classifier was chosen.
+1.Dataset: From the provided URL, a dataset is obtained that will be used to train and test the spam message classifier. The labeled messages in the dataset are represented by the "v1" column, which stands in for labels( spam or non-spamm), and the'v2 'column for text messages.
 
-Performance evaluation: Using the trained classifier, the testing data are predicted. The sklearn's corresponding functions are used to calculate the accuracy, precision, recall, and F1 score. module for metrics. These metrics give the classifier's ability to accurately classify spam and non-spam messages as well as its overall performance.
+2.Data loading and processing: The requests library is used to load the dataset into a pandas DataFrame. To make sure the dataset is loaded correctly, the column names are checked.
+
+3.Data splitting: Using the sklearn's train _ test _ split function, the dataset is divided into training and testing sets. module for model selection. A random state of 42 is used for reproducibility, and the testing set size is set at 20% of the total data.
+
+4.The CountVectorizer from the sklearn is a feature extraction. extraction of features. The text data is transformed into numerical features using the text module. The training and testing data are both transformed using the vectorizer, which is compatible with the training data.
+
+5.Model training: The sklearn's MultinomialNB classifier. The transformed training data is used to train the naive _ bayes module. Due to its efficiency in text classification tasks, this classifier was chosen.
+
+6.Performance evaluation: Using the trained classifier, the testing data are predicted. The sklearn's corresponding functions are used to calculate the accuracy, precision, recall, and F1 score. module for metrics. These metrics give the classifier's ability to accurately classify spam and non-spam messages as well as its overall performance.
 
 The evaluation of the spam message classifier using the provided code yielded the following results:
 
@@ -119,6 +128,7 @@ It's crucial to remember that the type of dataset used and the characteristics o
 #### Evaluation
 
 The search results offer information on the most recent developments in natural language processing( NLP) cybersecurity. The following are highlighted by the results:
+
 1.As it can assist with breach protection, identification, and scale and scope analysis, machine learning( ML) is integrating into cybersecurity workflows more and more.
 
 2.NLP, an AI-based deep learning branch that focuses on how people and computers interact using common language, offers a wealth of capabilities to enhance human ability. NLP is used to find threats and overlaps in data, standards, and frameworks from an organization's tech stack.
@@ -129,7 +139,7 @@ The search results offer information on the most recent developments in natural 
 
 5.The creation of new NLP-based systems for cybersecurity and digital forensics is one of the ongoing research projects in the field.
 
-High accuracy, precision, recall, and F1 score values were obtained in the prototype Naive Bayes algorithm spam message classifier implementation, demonstrating its ability to effectively classify both spam and non-spam messages. The performance of the classifier, however, can be influenced by the kind of dataset used and the messages' characteristics. It is possible to conduct additional experiments and evaluate the classifier's performance on various datasets in order to identify any potential improvements or optimizations.
+High accuracy, precision, recall, and F1 score values were obtained in the prototype Naive Bayes algorithm spam message classifier implementation, demonstrating its ability to effectively classify both spam and non-spam messages. The performance of the classifier, however, can be influenced by the kind of dataset used and the messages' characteristics. It is possible to conduct additional experiments and evaluate the classifier's performance on various datasets in order to identify any potential improvements.
 
 The project's objectives include identifying the most efficient NLP methods for spotting and preventing cyberattacks, incorporating it into current cyber workflows to help reduce breaches and protect users, offering cybersecurity professionals useful insights and real-world applications, and breaking it down into manageable steps.
 Overall, the search findings and prototype implementation show NLP's potential in cybersecurity and emphasize the need for additional field research and development.
@@ -137,13 +147,13 @@ Overall, the search findings and prototype implementation show NLP's potential i
 #### Threats to Validity
 The following are potential threats to the validity :
 
-Bias: Depending on the search terms and criteria used, certain sources or perspectives may be the subject of biased search results.
+1.Bias: Depending on the search terms and criteria used, certain sources or perspectives may be the subject of biased search results.
 
-Incomplete coverage: Because the search terms and criteria might not have collected all pertinent data, the results may not contain all relevant sources.
+2.Incomplete coverage: Because the search terms and criteria might not have collected all pertinent data, the results may not contain all relevant sources.
 
-Information that is out of date: Given how quickly the field of NLP in cybersecurity is developing, some of the sources might be.
+3.Information that is out of date: Given how quickly the field of NLP in cybersecurity is developing, some of the sources might be.
 
-Limited scope:Only a small portion of the potential uses and difficulties of NLP in cybersecurity are covered by the search results, so their scope may be constrained.
+4.Limited scope:Only a small portion of the potential uses and difficulties of NLP in cybersecurity are covered by the search results, so their scope may be constrained.
 
 #### Summary of Results
 For cybersecurity professionals looking to continuously enhance their compliance procedures, NLP, a subset of machine learning( ML), has excellent applications. Cybersecurity workflows can use NLP to help with scale and scope analysis, breach identification, and protection. Systems based on NLP are being created for cybersecurity and digital forensics. The prototype implements a spam message classifier that efficiently classifies both spam and non-spam messages using the Naive Bayes algorithm. According to the evaluation metrics, the classifier can distinguish between spam messages and non-spam messages because of its high accuracy, precision, recall, and F1 score values. Future research will focus on identifying the most efficient NLP methods for spotting and preventing cyberattacks, incorporating it into pre-existing cyber workflow, and giving cybersecurity professionals useful insights and real-world uses.
@@ -151,9 +161,10 @@ For cybersecurity professionals looking to continuously enhance their compliance
 #### Future Work
 
 Future work could include:
+
 1.Additional Spam Detection Research: The provided code uses the Naive Bayes algorithm to implement a spam message classifier. Machine learning models that can precisely identify and filter spam while minimizing false positives may be the subject of additional research and development in the future. Additionally, more intelligent filters that can adapt to various spam attacks could be developed.
 
-2.Experimentation for Responsible Design: A resource that suggests an innovative, experiment-based approach to fairness and inclusiveness was found in the search results. Experimentation may be used in the future to evaluate responsible design's inherent qualities and find areas for improvement or optimization.
+2.Experimentation for Responsible Design: A resource that suggests an innovative, experiment-based approach to fairness and inclusiveness was found in the search results. Experimentation may be used in the future to evaluate responsible design's inherent qualities and find areas for improvement.
 
 3.A resource on Natural Language Processing Fundamentals is included in the search results. Future research and development of NLP models and methods for text classification tasks, such as spam detection, may be involved.
 
