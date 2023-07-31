@@ -164,7 +164,7 @@ In conclusion, Natural Language Processing (NLP) is an area that is rapidly deve
 
 [2]K. Singh, S. S. Grover, and R. K. Kumar, “Cyber security vulnerability detection using natural language processing,” in 2022 IEEE World AI IoT Congress (AIIoT), 2022, pp. 174–178.
 
-[3]	“> > > > > > > risk communication guidelines for public officials communicating in a crisis communicating in a crisis: Risk communication guidelines for public officials 2 NATIONAL LIBRARY OF MEDICINE CATALOGING IN PUBLICATION,” Samhsa.gov. [Online]. Available: https://store.samhsa.gov/sites/default/files/d7/priv/pep19-01-01-005.pdf.
+[3]	“> > > > > > > risk communication guidelines for public officials communicating in a crisis communicating in a crisis: Risk communication guidelines for public officials 2 NATIONAL LIBRARY OF MEDICINE CATALOGING IN PUBLICATION,” Samhsa.gov. [Online]. 
 
 
 [4] F. Cremer et al., “Cyber risk and cybersecurity: a systematic review of data availability,” Geneva Pap. Risk Insur. Issues Pract., vol. 47, no. 3, pp. 698–736, 2022.
@@ -193,7 +193,7 @@ In conclusion, Natural Language Processing (NLP) is an area that is rapidly deve
 
 [16] Role and applications of NLP in cybersecurity. (2020, January 22). Masernet. 
 
-[17] Rouse, M. (2011, July 5). Cyberthreat. Techopedia. https://www.techopedia.com/definition/25263/cyberthreat
+[17] Rouse, M. (2011, July 5). Cyberthreat. Techopedia. 
 
 [18] What is cybersecurity? (2022, January 26). Michigan Technological University. 
 
