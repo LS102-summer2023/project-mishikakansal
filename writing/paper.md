@@ -120,7 +120,6 @@ Information that is out of date: Given how quickly the field of NLP in cybersecu
 Limited scope:Only a small portion of the potential uses and difficulties of NLP in cybersecurity are covered by the search results, so their scope may be constrained.
 ### Conclusion
 
-TODO: Traditionally, this section addresses the areas proposed below as subsections, although not necessarily in this order or organized as offered.
 
 #### Summary of Results
 
@@ -144,7 +143,6 @@ In conclusion, Natural Language Processing (NLP) is an area that is rapidly deve
 
 #### References
 
-TODO: Use IEEE format
 
 [1] ...
 
