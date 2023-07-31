@@ -38,29 +38,30 @@ Step 6: Identifying the ethical considerations while using the NLP model and ass
 
 * Introduction
 
-     + Motivation
-1.bridge the gap between the theoritical aspects of NLP in cybersecurity
+#Motivation
 
-2.practical application of NLP for preventing cyber attacks.
+1.Bridge the gap between the theoritical aspects of NLP in cybersecurity
 
-3.develop strategies to address ethical issues when using NLP in cybersecurity.
+2.Practical application of NLP for preventing cyber attacks.
+
+3.Develop strategies to address ethical issues when using NLP in cybersecurity.
 
 
-     + Current State of the Art
+#Current State of the Art
 
 The current state of the art in the application of natural language processing (NLP) in cybersecurity is rapidly evolving.
 Here are some examples of recent research and developments:
 1) State of the art research to explain cybersecurity was covered in a survey of current AI applications in cybersecurity.(1)
    
-     + Goals of the Project
+#Goals of the Project
 
-1.to identify the most effective NLP techniques for detecting and preventing cyber attacks
+1.To identify the most effective NLP techniques for detecting and preventing cyber attacks
 
-2.to integrate NLP into existing cyber workflows to help improve breaches and protection
+2.To integrate NLP into existing cyber workflows to help improve breaches and protection
 
 3.The project is divided into steps which will be considered as goals
 
-4.provide valuable insights and pratical applications of NLP for cybersecurity professionals
+4.Provide valuable insights and pratical applications of NLP for cybersecurity professionals
 
 
 * Related work
@@ -82,7 +83,7 @@ The field of NLP has gained a significant amount of attention in the domain of c
 To conduct the project on the practical applications of NLP in cybersecurity for detecting and preventing cyber attacks, the following methods will be followed:
 1. LITERATURE REVIEW
 
-a) conducting a comprehensive literature review to identify existing research on practical applications of NLP in cybersecurity 
+a) Conducting a comprehensive literature review to identify existing research on practical applications of NLP in cybersecurity 
 
 b) Analysing the findings to understand the current level of research
 
@@ -132,14 +133,12 @@ Developing the NLP model using the slected appropriate dataset
 2. Testing
 
 Comparing the developed model with the existing model
+
 3. Performance Analysis 
 
-This includes testing the data using evaluation metrics such as accuracy
+This includes testing the data using evaluation metrics such as accuracy, F1 score etc.
 
-# Threats To Vslidity
-1.Bias
-2.Incomplete Coverage
-3.Limited Scope
+# Threats To Validity
 
 1. Testing Effect
    This particularly refers to being aware of certain datasets that can influence the outcome of the model.
@@ -165,12 +164,17 @@ This includes testing the data using evaluation metrics such as accuracy
 2. Exploring the use of application of NLP in other specific cybersecurity areas
 
 #Ethical Implications and Recommendations
+
 1.Probability of bias
-2.Data Privacy
+2
+.Data Privacy
 
 # Conclusions 
-1. Nlp is rapidly dveloping 
+
+1. Nlp is rapidly developing 
+
 2.More research can be done in field of cybersecurity
+
 3.NLP has the potential to change the World of cybersecurity
 
 # References
