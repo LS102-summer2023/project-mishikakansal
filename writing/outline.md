@@ -112,8 +112,6 @@ b) Developing strategies to work on the ethical implications
 
 * Experiments
 
-     + Experimental Design
-
 The experimental design will involve:
 1. The research question
 
@@ -126,7 +124,6 @@ Referencing the valid articles. Especially those that will used to compare the p
 3. Building the prototype
 4. Testing 
 
-     + Evaluation
 The evauluation will involve the following steps:
 1. Implementation 
 
@@ -139,7 +136,10 @@ Comparing the developed model with the existing model
 
 This includes testing the data using evaluation metrics such as accuracy
 
-     + Threats to Validity
+# Threats To Vslidity
+1.Bias
+2.Incomplete Coverage
+3.Limited Scope
 
 1. Testing Effect
    This particularly refers to being aware of certain datasets that can influence the outcome of the model.
@@ -165,9 +165,12 @@ This includes testing the data using evaluation metrics such as accuracy
 2. Exploring the use of application of NLP in other specific cybersecurity areas
 
      + Ethical Implications and Recommendations
-
+1.Probability of bias
+2.Data Privacy
      + Conclusions
-
+1. Nlp is rapidly dveloping 
+2.More research can be done in field of cybersecurity
+3.NLP has the potential to change the World of cybersecurity
      + References
 (1) https://www.sciencedirect.com/science/article/pii/S1566253523001136
 
@@ -197,4 +200,3 @@ https://www.mtu.edu/computing/cybersecurity/
 (13) ct: https://nordvpn.com/cybersecurity/glossary/cyberthreat/
 ---
 
-(Did you remember to write your name at the top of this document?)
