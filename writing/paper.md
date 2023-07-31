@@ -5,9 +5,6 @@
 Mishika Kansal
 
 ---
-
-TODO: Text added to relevant sections below
-
 ### Introduction
 
 The ability of a computer program to understand and interpret human language as they are spoken or written is known as Natural Language Processing(NLP).NLP's main objective is to make it possible for computers to comprehend, interpret, and produce natural language in a manner similar to that of humans.NLP entails a number of steps that, when combined, produce the desired result. It is employed for the analysis, comprehension, and production of natural language text and speech.In order to study the rules and structure of language and develop intelligent systems capable of comprehending, analysing, and extracting meaning from text, linguistics and computer science are combined in NLP.
@@ -91,15 +88,9 @@ Data loading, preprocessing, feature extraction, model training, prediction, and
 
 ### Experiments
 
-TODO: This section describes your experimental set up and evaluation. It should also produce and describe the results of your study. The subsection titles below offer a typical structure used for this section.
-
 #### Experimental Design
 
-TODO: Especially as it pertains to responsible computing, if conducting experiments or evaluations that involve particular ethical considerations, detail those issues here.
-
 #### Evaluation
-
-TODO
 
 #### Threats to Validity
 
