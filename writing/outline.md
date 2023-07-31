@@ -152,51 +152,51 @@ This includes testing the data using evaluation metrics such as accuracy
 
 * Conclusion
 
-     + Summary of Results
+#Summary of Results
 
 1. The project explored the practical application of NLP techniques in preventing cyber attacks.
 
 2. Comparitive analysing with existing cybersecurity tools can highlight potential advantages.
 
-     + Future Work
+#Future Work
 
 1. The future work can involve combination of NLP with other AI tools such as machine learning or deep learning.
 
 2. Exploring the use of application of NLP in other specific cybersecurity areas
 
-     + Ethical Implications and Recommendations
+#Ethical Implications and Recommendations
 1.Probability of bias
 2.Data Privacy
-     + Conclusions
+
+# Conclusions 
 1. Nlp is rapidly dveloping 
 2.More research can be done in field of cybersecurity
 3.NLP has the potential to change the World of cybersecurity
-     + References
-(1) https://www.sciencedirect.com/science/article/pii/S1566253523001136
 
-(2) https://www.mdpi.com/2073-8994/12/3/354
+# References
+(1) Kaur, R., Gabrijelčič, D., & Klobučar, T. (2023). Artificial intelligence for cybersecurity: Literature review and future research directions. An International Journal on Information Fusion, 97(101804), 101804. 
 
-(3) https://ieeexplore.ieee.org/abstract/document/9486354
+(2) Georgescu, T.-M. (2020). Natural language processing model for automatic analysis of cybersecurity-related documents. Symmetry, 12(3), 354. 
 
-(4) https://ieeexplore.ieee.org/abstract/document/9817336
+(3) Ukwen, D. O., & Karabatak, M. (2021). Review of NLP-based systems in digital forensics and cybersecurity. 2021 9th International Symposium on Digital Forensics and Security (ISDFS), 1–9.
 
-(5) https://www.proquest.com/openview/92816e13be658ea5a0bf45f398a3c4e5/1?pq-origsite=gscholar&cbl=18750&diss=y
+(4) Singh, K., Grover, S. S., & Kumar, R. K. (2022). Cyber security vulnerability detection using natural language processing. 2022 IEEE World AI IoT Congress (AIIoT), 174–178.
 
-(6) https://library.ucsd.edu/dc/object/bb4103775q
+(5) Cybersecurity vulnerability classification utilizing natural language processing methods. (2021).
 
-(7)  https://developer.nvidia.com/blog/changing-cybersecurity-with-natural-language-processing/
+(6) Digital collections: Using NLP to predict the severity of cyber sec. (n.d.). UC San Diego Library | Digital Collections. Retrieved July 31, 2023, from https://library.ucsd.edu/dc/object/bb4103775q
 
-(8) https://www.masernet.com/project/role-and-applications-of-nlp-in-cybersecurity
+(7)  Richardson, B. (2022, October 19). Changing cybersecurity with natural language processing. NVIDIA Technical Blog. 
 
-(9) https://arxiv.org/pdf/2106.01998.pdf
+(8) Role and applications of NLP in cybersecurity. (2020, January 22). Masernet.
 
-(10) https://www.sciencedirect.com/science/article/pii/S1877050921014368?via%3Dihub
+(9) Abri, F., Gutierrez, L. F., Kulkarni, C. T., Namin, A. S., & Jones, K. S. (2021). Toward explainable users: Using NLP to enable AI to understand users’ perceptions of cyber attacks. In arXiv [cs.HC]. 
 
+(10)Haynes, K., Shirazi, H., & Ray, I. (2021). Lightweight URL-based phishing detection using natural language processing transformers for mobile devices. Procedia Computer Science, 191, 127–134. 
 
+(11) What is cybersecurity? (2022, January 26). Michigan Technological University. 
 
-(11) about cybersecurity:
-https://www.mtu.edu/computing/cybersecurity/
-(12) cyberthreat: https://www.techopedia.com/definition/25263/cyberthreat
-(13) ct: https://nordvpn.com/cybersecurity/glossary/cyberthreat/
+(12) Rouse, M. (2011, July 5). Cyberthreat. Techopedia.
+
 ---
 
