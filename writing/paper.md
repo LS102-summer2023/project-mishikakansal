@@ -108,6 +108,22 @@ It's crucial to remember that the type of dataset used and the characteristics o
 
 #### Evaluation
 
+The search results offer information on the most recent developments in natural language processing( NLP) cybersecurity. The following are highlighted by the results:
+1.As it can assist with breach protection, identification, and scale and scope analysis, machine learning( ML) is integrating into cybersecurity workflows more and more.
+
+2.NLP, an AI-based deep learning branch that focuses on how people and computers interact using common language, offers a wealth of capabilities to enhance human ability. NLP is used to find threats and overlaps in data, standards, and frameworks from an organization's tech stack.
+
+3.NLP is being used to automate processes like framework crosswalking and making security telemetry actionable from a risk and compliance standpoint.
+
+4.NLP can be used to understand the internal structure of an email, spot spammer patterns, and analyze bot or spam behavior in text.
+
+5.The creation of new NLP-based systems for cybersecurity and digital forensics is one of the ongoing research projects in the field.
+
+High accuracy, precision, recall, and F1 score values were obtained in the prototype Naive Bayes algorithm spam message classifier implementation, demonstrating its ability to effectively classify both spam and non-spam messages. The performance of the classifier, however, can be influenced by the kind of dataset used and the messages' characteristics. It is possible to conduct additional experiments and evaluate the classifier's performance on various datasets in order to identify any potential improvements or optimizations.
+
+The project's objectives include identifying the most efficient NLP methods for spotting and preventing cyberattacks, incorporating it into current cyber workflows to help reduce breaches and protect users, offering cybersecurity professionals useful insights and real-world applications, and breaking it down into manageable steps.
+Overall, the search findings and prototype implementation show NLP's potential in cybersecurity and emphasize the need for additional field research and development.
+
 #### Threats to Validity
 The following are potential threats to the validity :
 
@@ -122,7 +138,7 @@ Limited scope:Only a small portion of the potential uses and difficulties of NLP
 
 
 #### Summary of Results
-
+For cybersecurity professionals looking to continuously enhance their compliance procedures, NLP, a subset of machine learning( ML), has excellent applications. Cybersecurity workflows can use NLP to help with scale and scope analysis, breach identification, and protection. Systems based on NLP are being created for cybersecurity and digital forensics. The prototype implements a spam message classifier that efficiently classifies both spam and non-spam messages using the Naive Bayes algorithm. According to the evaluation metrics, the classifier can distinguish between spam messages and non-spam messages because of its high accuracy, precision, recall, and F1 score values. Future research will focus on identifying the most efficient NLP methods for spotting and preventing cyberattacks, incorporating it into pre-existing cyber workflow, and giving cybersecurity professionals useful insights and real-world uses.
 
 #### Future Work
 
