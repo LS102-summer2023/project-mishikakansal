@@ -6,6 +6,7 @@ Mishika Kansal
 
 ---
 ### Introduction
+
 The ability of a computer program to understand and interpret human language as they are spoken or written is known as Natural Language Processing(NLP).NLP's main objective is to make it possible for computers to comprehend, interpret, and produce natural language in a manner similar to that of humans.NLP entails a number of steps that, when combined, produce the desired result. It is employed for the analysis, comprehension, and production of natural language text and speech.In order to study the rules and structure of language and develop intelligent systems capable of comprehending, analysing, and extracting meaning from text, linguistics and computer science are combined in NLP.
 
 
@@ -49,21 +50,24 @@ This illustration represents the first extension of NLP, which was initially int
 ### Related work
 The field of NLP has acquire a meaningful amount of consideration in the rule of cybersecurity. While most of the research accompanying everything devote effort to something the hypothetical facet present are few studies that have fixated on the experienced use:
 
-
-"Natural Language Processing Model for Automatic Analysis of Cybersecurity-Related Documents" This paper explains the happening and exercise of an NLP model established machine intelligence operating reasoning for cybersecurity accompanying document.(2) "Review of NLP-located Systems in Digital Forensics and Cybersecurity" This paper reviewed the use of AI and NLP requests for cybersecurity containing dossier excavating,pattern recognitions and expert arrangements. (3) "Cyber Security Vulnerability Detection Using Natural Language Processing" This paper expands a scheme targetting spreadsheet exposure discovery as a NLP question. (4) "Cybersecurity Vulnerability Classification Utilizing Natural Language Processing Methods" This research is utilising NLP and few deep knowledge models to categorize exposures (5)
-
 Primary Resources:
-1.The SAMHSA Publications and Digital Products primer, "Communicating in a Crisis," offers advice on how to communicate effectively and make decisions. The primer emphasizes the value of concise, accurate, and clear communication during a crisis and offers advice on how to communicate effectively, such as by sending out regular updates and using simple messages. The primer offers insights into the significance of effective communication during a crisis, which may be pertinent to the development of NLP models for detecting and responding to cybersecurity threats.
-https://store.samhsa.gov/sites/default/files/d7/priv/pep19-01-01-005.pdf
+1.The paper "Natural Language Processing Model for Automatic Analysis of Cybersecurity-Related Documents" by Tiberiu-Marian Georgescu describes the development of an NLP model for automatic analysis of cybersecurity-related documents.(1) 
 
-Secondary Resources: 1.A research paper examining the available literature and open data sources related to cybersecurity and cyber risk is titled "Cyber risk and cybersecurity: a systematic review of data availability." The paper, which offers insights into the accessibility of cybersecurity and cyber risk data, is accessible on the NCBI website. About 150 articles, business and government reports, academic papers, and historical cost data or derived cost estimates for losses make up the paper. As it offers insights into the available literature and data sources related to cybersecurity and cyber risk.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8853293/
+2."Review of NLP-located Systems in Digital Forensics and Cybersecurity" This paper reviewed the use of AI and NLP requests for cybersecurity containing dossier excavating,pattern recognitions and expert arrangements. (2) 
 
-2.The IEEE Xplore paper, "Review of NLP-based Systems in Digital Forensics and Cybersecurity," reviews the literature on these systems in cybersecurity and digital forensics, outlining their functions, uses, difficulties, and potential future directions. It sheds light on how NLP-based systems are used in cybersecurity and digital forensics. The paper identifies challenges and potential research directions in this field as well as the potential of NLP-based systems for detecting and responding to cybersecurity threats.
-https://ieeexplore.ieee.org/document/9486354
+3."Cyber Security Vulnerability Detection Using Natural Language Processing" This paper expands a scheme targetting spreadsheet exposure discovery as a NLP question. (3)
 
-3.The use of NLP in cybersecurity workflows, such as breach protection, identification, and scale and scope analysis, is covered in the article titled "How LNP is Transforming Cyber Risk and Compliance." According to the article, NLP is a subset of machine learning that cybersecurity professionals can use to continuously enhance their compliance procedures. The use of NLP in cyber risk automation is also highlighted in the article. This method reduces the cost of assessments by up to 90% and saves businesses on the Global 500 and beyond millions of dollars.
+4.The SAMHSA Publications and Digital Products primer, "Communicating in a Crisis," offers advice on how to communicate effectively and make decisions. The primer emphasizes the value of concise, accurate, and clear communication during a crisis and offers advice on how to communicate effectively, such as by sending out regular updates and using simple messages. The primer offers insights into the significance of effective communication during a crisis, which may be pertinent to the development of NLP models for detecting and responding to cybersecurity threats.(4)
 
+
+Secondary Resources:
+1.A research paper examining the available literature and open data sources related to cybersecurity and cyber risk is titled "Cyber risk and cybersecurity: a systematic review of data availability." The paper, which offers insights into the accessibility of cybersecurity and cyber risk data, is accessible on the NCBI website. About 150 articles, business and government reports, academic papers, and historical cost data or derived cost estimates for losses make up the paper. As it offers insights into the available literature and data sources related to cybersecurity and cyber risk.(5)
+
+
+2.The IEEE Xplore paper, "Review of NLP-based Systems in Digital Forensics and Cybersecurity," reviews the literature on these systems in cybersecurity and digital forensics, outlining their functions, uses, difficulties, and potential future directions. It sheds light on how NLP-based systems are used in cybersecurity and digital forensics. The paper identifies challenges and potential research directions in this field as well as the potential of NLP-based systems for detecting and responding to cybersecurity threats.(6)
+
+
+Spam-detection-block-diagram.png
 
 ### Prototype
 The Naive Bayes algorithm is used in the prototype to implement a spam message classifier. The implementation is described below:
@@ -159,8 +163,14 @@ In conclusion, Natural Language Processing (NLP) is an area that is rapidly deve
 #### References
 
 
-[1] ...
+[1] https://www.semanticscholar.org/paper/Natural-Language-Processing-Model-for-Automatic-of-Georgescu/8c557b7df46e6c54a5fef4a78f38151aa0c4ede5
 
-[2] ...
+[2] https://ieeexplore.ieee.org/document/9486354
 
----
+[3] https://ieeexplore.ieee.org/document/9817336
+
+[4] https://store.samhsa.gov/sites/default/files/d7/priv/pep19-01-01-005.pdf
+
+[5] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8853293/
+
+[6] https://ieeexplore.ieee.org/document/9486354
