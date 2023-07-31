@@ -64,7 +64,7 @@ Secondary Resources:
 2.The IEEE Xplore paper, "Review of NLP-based Systems in Digital Forensics and Cybersecurity," reviews the literature on these systems in cybersecurity and digital forensics, outlining their functions, uses, difficulties, and potential future directions. It sheds light on how NLP-based systems are used in cybersecurity and digital forensics. The paper identifies challenges and potential research directions in this field as well as the potential of NLP-based systems for detecting and responding to cybersecurity threats.(5)
 
 
-![Spam-detection-block-diagram](https://github.com/LS102-summer2023/project-mishikakansal/assets/136472000/ccad79c2-a95c-4d4b-91e8-2c966861e295)
+![Spam-detection-block-diagram](https://github.com/LS102-summer2023/project-mishikakansal/assets/136472000/ccad79c2-a95c-4d4b-91e8-2c966861e295)        (23)
 
 
 ### Prototype
@@ -87,6 +87,8 @@ Performance Evaluation: Using the actual labels( y _ test) and the predicted lab
 Printing Evaluation Metrics: To evaluate the spam classifier's effectiveness, the evaluation metrics( accuracy, precision, recall, and F1 score) are printed.
 Data loading, preprocessing, feature extraction, model training, prediction, and evaluation are all part of the prototype's standard machine learning pipeline. The CountVectorizer is used to transform text data into numerical features, and the classification algorithm is the Naive Bayes algorithm. Various metrics are used to assess the classifier's performance.
 
+ <img width="848" alt="Screenshot 2023-08-01 at 2 33 04 AM" src="https://github.com/LS102-summer2023/project-mishikakansal/assets/136472000/1c59b27e-3c4c-4139-be64-dbf60e594f93">   (21)
+
 ### Experiments
 The spam message classifier's experimental design is as follows:
 Dataset: From the provided URL, a dataset is obtained that will be used to train and test the spam message classifier. The labeled messages in the dataset are represented by the "v1" column, which stands in for labels( spam or non-spamm), and the'v2 'column for text messages.
@@ -99,13 +101,20 @@ Model training: The sklearn's MultinomialNB classifier. The transformed training
 Performance evaluation: Using the trained classifier, the testing data are predicted. The sklearn's corresponding functions are used to calculate the accuracy, precision, recall, and F1 score. module for metrics. These metrics give the classifier's ability to accurately classify spam and non-spam messages as well as its overall performance.
 
 The evaluation of the spam message classifier using the provided code yielded the following results:
+
 Accuracy: 0.9838565022421525
-Precision: 0.9852941176470589
+
+recision: 0.9852941176470589
+
 Recall: 0.8933333333333333
+
 F1 score: 0.9370629370629371
 
 These metrics show that the classifier effectively categorizes both spam and non-spam messages. The classifier's high accuracy, precision, recall, and F1 score values imply that it can tell spam messages apart from non-spam messages.
 It's crucial to remember that the type of dataset used and the characteristics of the messages can have an impact on how well the classifier performs. To evaluate the classifier's effectiveness on various datasets and look into potential enhancements or optimizations, additional experimentation and evaluation are possible.
+
+![Screenshot 2023-07-27 at 1 04 46 PM 2](https://github.com/LS102-summer2023/project-mishikakansal/assets/136472000/0f2a9615-9003-4de4-b777-15ae3530bcd6)     (22)
+
 
 #### Evaluation
 
@@ -135,8 +144,6 @@ Incomplete coverage: Because the search terms and criteria might not have collec
 Information that is out of date: Given how quickly the field of NLP in cybersecurity is developing, some of the sources might be.
 
 Limited scope:Only a small portion of the potential uses and difficulties of NLP in cybersecurity are covered by the search results, so their scope may be constrained.
-### Conclusion
-
 
 #### Summary of Results
 For cybersecurity professionals looking to continuously enhance their compliance procedures, NLP, a subset of machine learning( ML), has excellent applications. Cybersecurity workflows can use NLP to help with scale and scope analysis, breach identification, and protection. Systems based on NLP are being created for cybersecurity and digital forensics. The prototype implements a spam message classifier that efficiently classifies both spam and non-spam messages using the Naive Bayes algorithm. According to the evaluation metrics, the classifier can distinguish between spam messages and non-spam messages because of its high accuracy, precision, recall, and F1 score values. Future research will focus on identifying the most efficient NLP methods for spotting and preventing cyberattacks, incorporating it into pre-existing cyber workflow, and giving cybersecurity professionals useful insights and real-world uses.
@@ -200,6 +207,14 @@ In conclusion, Natural Language Processing (NLP) is an area that is rapidly deve
 [19] (N.d.). Perplexity.Ai. Retrieved July 31, 2023.
 
 [20] Rewriter AI. (n.d.). Rewriter.Ai. Retrieved July 31, 2023
+
+[21] Rusland, N. F., Wahid, N., Kasim, S., & Hafit, H. (2017). Analysis of naïve Bayes algorithm for email spam filtering across multiple datasets. IOP Conference Series. Materials Science and Engineering, 226, 012091.
+
+[22] Graphic design software - create awesome designs online. (n.d.). Designcap.com. Retrieved July 31, 2023
+
+[23] ResearchGate. (n.d.). ResearchGate. Retrieved July 31, 2023
+
+
 
 
 
