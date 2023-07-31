@@ -184,7 +184,7 @@ This includes testing the data using evaluation metrics such as accuracy
 
 (5) Cybersecurity vulnerability classification utilizing natural language processing methods. (2021).
 
-(6) Digital collections: Using NLP to predict the severity of cyber sec. (n.d.). UC San Diego Library | Digital Collections. Retrieved July 31, 2023, from https://library.ucsd.edu/dc/object/bb4103775q
+(6) Digital collections: Using NLP to predict the severity of cyber sec. (n.d.). UC San Diego Library | Digital Collections. Retrieved July 31, 2023.
 
 (7)  Richardson, B. (2022, October 19). Changing cybersecurity with natural language processing. NVIDIA Technical Blog. 
 
