@@ -64,7 +64,7 @@ Secondary Resources:
 2.The IEEE Xplore paper, "Review of NLP-based Systems in Digital Forensics and Cybersecurity," reviews the literature on these systems in cybersecurity and digital forensics, outlining their functions, uses, difficulties, and potential future directions. It sheds light on how NLP-based systems are used in cybersecurity and digital forensics. The paper identifies challenges and potential research directions in this field as well as the potential of NLP-based systems for detecting and responding to cybersecurity threats.(5)
 
 
-![Alt text] (Spam-detection-block-diagram.png)
+![Spam-detection-block-diagram](https://github.com/LS102-summer2023/project-mishikakansal/assets/136472000/ccad79c2-a95c-4d4b-91e8-2c966861e295)
 
 
 ### Prototype
