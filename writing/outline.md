@@ -8,11 +8,12 @@ Mishika Kansal
 
 * What is the focus of your research project?
 
-The use of natural language processing( NLP) in cybersecurity is gaining popularity in the cybersecurity domain.It can used to support risk assessments. It can also help identify threats that can help identify the vulnerabilities in the security infrastructure. There is a need for real-world applications for spotting and preventing cyberattacks, even though the majority of current research has concentrated on theoretical aspects of NLP in cybersecurity.NLP can also provide a leverage to assist in breach protection,identification and scope analysis.
+The use of natural language processing (NLP) in cybersecurity is gaining popularity. It can used to support risk assessments. It can also help identify threats that can help identify vulnerabilities in the security infrastructure. There is a need for real-world applications for spotting and preventing cyberattacks, even though the majority of current research has concentrated on theoretical aspects of NLP in cybersecurity. NLP can also provide leverage to assist in breach protection,identification, and scope analysis.
+
 * State at least one research question that your project will answer.
 
 The project will answer the following research questions:
-1) What are the practical applications of NLP in cybersecurity for detecting and preventing cyber attacks?
+1) What are the practical applications of NLP in cybersecurity for detecting and preventing cyberattacks?
 2) What are the ethical considerations when using NLP in cybersecurity, and how can they be addressed in practical applications?
 3) How can NLP be used to detect and prevent phishing attacks?
 
@@ -24,11 +25,11 @@ Step 1: To determine the state of knowledge regarding NLP's practical applicatio
 
 Step 2: Create research questions to address the gaps in the literature by identifying them.
 
-Step 3: Collecting and analysing the data to answer the research question
+Step 3: Collecting and analyzing the data to answer the research question
 
 Step 4: Developing and testing NLP models for preventing phishing attacks 
 
-Step 5: Evaluating the model and its effectiveness and comparing it with the current cybersecurity techniques and tools.
+Step 5: Evaluating the model and its effectiveness and comparing it with current cybersecurity techniques and tools.
 
 Step 6: Identifying the ethical considerations while using the NLP model and assessing them.
 
@@ -40,18 +41,12 @@ Step 6: Identifying the ethical considerations while using the NLP model and ass
 
 #Motivation
 
-1.Bridge the gap between the theoritical aspects of NLP in cybersecurity
+1. Bridge the gap between the theoretical aspects of NLP in cybersecurity.
 
-2.Practical application of NLP for preventing cyber attacks.
+2. Practical application of NLP for preventing cyber attacks.
 
-3.Develop strategies to address ethical issues when using NLP in cybersecurity.
+3. Develop strategies to address ethical issues when using NLP in cybersecurity.
 
-
-#Current State of the Art
-
-The current state of the art in the application of natural language processing (NLP) in cybersecurity is rapidly evolving.
-Here are some examples of recent research and developments:
-1) State of the art research to explain cybersecurity was covered in a survey of current AI applications in cybersecurity.(1)
    
 #Goals of the Project
 
@@ -165,17 +160,16 @@ This includes testing the data using evaluation metrics such as accuracy, F1 sco
 
 #Ethical Implications and Recommendations
 
-1.Probability of bias
-2
-.Data Privacy
+1. Probability of bias
+2. Data Privacy
 
 # Conclusions 
 
-1. Nlp is rapidly developing 
+1. NLP is rapidly developing 
 
-2.More research can be done in field of cybersecurity
+2. More research can be done in field of cybersecurity
 
-3.NLP has the potential to change the World of cybersecurity
+3. NLP has the potential to change the World of cybersecurity
 
 # References
 (1) Kaur, R., Gabrijelčič, D., & Klobučar, T. (2023). Artificial intelligence for cybersecurity: Literature review and future research directions. An International Journal on Information Fusion, 97(101804), 101804. 
